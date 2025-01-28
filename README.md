@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @13Griffon13
-- 👀 I’m interested in Video Games(playing and creating), Music, Fantasy stories
-- 🌱 I’m currently learning Flutter(know something), Japanese language(complete begginer)
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in mobile technologies(primary), game design and story telling(hobbies). 
+- 🌱 I’m currently well Familiar with Flutter and looking to improve or extend my knowledge
 - 📫 How to reach me llgriffonll@gmail.com
 
 <!---
